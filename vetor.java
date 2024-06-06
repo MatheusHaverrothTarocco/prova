@@ -63,8 +63,8 @@ public class vetor {
                         somar = somar + temp[i];
                     }
 
-                    System.out.println("A soma é: " + soma);
-                    System.out.println("A media é: " + soma / qtd);
+                    System.out.println("A soma é: " + somar);
+                    System.out.println("A media é: " + somar / qtd);
 
                     if(pos1 < 0 || pos1 > qtd ){
                         System.out.println("Erro");
